@@ -1,1 +1,3 @@
 # Bit_Sync_with_parameterized_bus
+Clock Domain Crossing (CDC) in digital domain is defined as the process of passing a signal or vector (multi bit signal) from one clock domain to another clock domain which introduce many issues as metastability, data incoherence and data loss. There are many techniques to synchronize asynchronous signals to avoid CDC issues as: -  Multi-Flop Synchronization Scheme: Used to synchronize single bit or multiple bits encoded in gray code.
+![EDA - VMware Workstation 13_09_2022 08_29_06 م](https://user-images.githubusercontent.com/82718853/189983843-e48a07e6-cb79-47ea-b4a3-32a5f5b3d81d.png)
